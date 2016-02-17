@@ -1,11 +1,11 @@
-package math.view;
+package ctec.view;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
-import math.controller.RecursionController;
+import ctec.controller.RecursionController;
 
 public class RecursionPanel extends JPanel
 {

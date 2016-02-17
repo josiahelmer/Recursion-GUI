@@ -1,4 +1,4 @@
-package math.model;
+package ctec.model;
 
 public class RecursionTool
 {
@@ -22,7 +22,7 @@ public class RecursionTool
 		
 	}
 
-	public int factorialNumber(int position)
+	public int FactorialNumber(int position)
 	{
 		//Bounds Check
 		if (position < 0)
@@ -37,7 +37,13 @@ public class RecursionTool
 		}
 		else //Recursive case
 		{
-			return position * factorialNumber(position - 1);
+			return position * FactorialNumber(position - 1);
 		}
+	}
+
+	public int getFibNumber(int i)
+	{
+
+		return 0;
 	}
 }

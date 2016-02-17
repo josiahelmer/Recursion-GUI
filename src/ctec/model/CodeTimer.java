@@ -1,4 +1,4 @@
-package math.model;
+package ctec.model;
 
 public class CodeTimer
 {

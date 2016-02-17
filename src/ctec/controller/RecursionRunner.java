@@ -1,6 +1,6 @@
-package math.controller;
+package ctec.controller;
 
-import math.controller.RecursionController;
+import ctec.controller.RecursionController;
 
 public class RecursionRunner
 {

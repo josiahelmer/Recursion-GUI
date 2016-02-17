@@ -1,7 +1,7 @@
-package math.controller;
+package ctec.controller;
 
-import math.model.RecursionTool;
-import math.view.RecursionFrame;
+import ctec.model.RecursionTool;
+import ctec.view.RecursionFrame;
 
 public class RecursionController
 {
