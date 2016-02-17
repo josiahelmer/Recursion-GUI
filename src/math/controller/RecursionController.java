@@ -1,7 +1,7 @@
 package math.controller;
 
+import math.model.RecursionTool;
 import math.view.RecursionFrame;
-import math.view.RecursionTool;
 
 public class RecursionController
 {

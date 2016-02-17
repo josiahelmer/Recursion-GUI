@@ -54,10 +54,7 @@ public class RecursionPanel extends JPanel
 			}
 		});
 	
-		factorialButton.addActionListener(new ActionListener()
-		{
-		
-		}
+
 	}	
 private boolean checkInput(String input)
 {

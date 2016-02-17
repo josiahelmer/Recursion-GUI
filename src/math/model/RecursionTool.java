@@ -1,4 +1,4 @@
-package math.view;
+package math.model;
 
 public class RecursionTool
 {
